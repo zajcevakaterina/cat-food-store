@@ -1,0 +1,7 @@
+.app {
+  background-image: url(../../images/app/pattern.svg);
+  width: 100%;
+  min-height: 100vh;
+  background-repeat: repeat;
+  z-index: -1;
+}

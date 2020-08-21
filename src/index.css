@@ -1,13 +1,15 @@
+@import url(./vendor/fonts/fonts.css);
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Trebuchet MS', sans-serif;
+  --BASIC-COLOR: #1698d9;
+  --BASIC-COLOR-HOVER: #2ea8e6;
+  --SELECTED-COLOR: #d91667;
+  --SELECTED-COLOR-HOVER: #e52e7a;
+  --DISABLED-COLOR: #b3b3b3;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "300200259332eb6fa4436d189435b1be",
+    "revision": "a30422d9ee6bb3e09ca3b4eddc014b47",
     "url": "/cat-food-store/index.html"
   },
   {
-    "revision": "41b2f535617c295c604a",
-    "url": "/cat-food-store/static/css/main.a9b9d180.chunk.css"
+    "revision": "534b4ead12fe0ed34d58",
+    "url": "/cat-food-store/static/css/main.9a35845d.chunk.css"
   },
   {
     "revision": "463286869bbd0814ebc1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cat-food-store/static/js/2.de01f2df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41b2f535617c295c604a",
+    "revision": "534b4ead12fe0ed34d58",
     "url": "/cat-food-store/static/js/main.a867e71f.chunk.js"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cat-food-store/static/media/Exo2.0-Thin.652214a5.woff"
   },
   {
-    "revision": "63f3ee9c747c86d1643376b970373180",
-    "url": "/cat-food-store/static/media/cat-image.63f3ee9c.svg"
+    "revision": "dc952312bfb85e105b46508d891ba8ba",
+    "url": "/cat-food-store/static/media/cat-photo.dc952312.jpg"
   },
   {
     "revision": "7ea1b7b633f40d8b383c7e618cb02a8a",

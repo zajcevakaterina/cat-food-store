@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cat-food-store/static/css/main.a9b9d180.chunk.css",
+    "main.css": "/cat-food-store/static/css/main.9a35845d.chunk.css",
     "main.js": "/cat-food-store/static/js/main.a867e71f.chunk.js",
     "main.js.map": "/cat-food-store/static/js/main.a867e71f.chunk.js.map",
     "runtime-main.js": "/cat-food-store/static/js/runtime-main.6fd0a521.js",
@@ -8,18 +8,18 @@
     "static/js/2.de01f2df.chunk.js": "/cat-food-store/static/js/2.de01f2df.chunk.js",
     "static/js/2.de01f2df.chunk.js.map": "/cat-food-store/static/js/2.de01f2df.chunk.js.map",
     "index.html": "/cat-food-store/index.html",
-    "precache-manifest.4a2c41793c12d547da1a4e9567251bb4.js": "/cat-food-store/precache-manifest.4a2c41793c12d547da1a4e9567251bb4.js",
+    "precache-manifest.5e234ef58f04115d0056d2aa0a59d75b.js": "/cat-food-store/precache-manifest.5e234ef58f04115d0056d2aa0a59d75b.js",
     "service-worker.js": "/cat-food-store/service-worker.js",
-    "static/css/main.a9b9d180.chunk.css.map": "/cat-food-store/static/css/main.a9b9d180.chunk.css.map",
+    "static/css/main.9a35845d.chunk.css.map": "/cat-food-store/static/css/main.9a35845d.chunk.css.map",
     "static/js/2.de01f2df.chunk.js.LICENSE.txt": "/cat-food-store/static/js/2.de01f2df.chunk.js.LICENSE.txt",
     "static/media/index.css": "/cat-food-store/static/media/Exo2.0-Thin.652214a5.woff",
-    "static/media/Card.css": "/cat-food-store/static/media/cat-image.63f3ee9c.svg",
+    "static/media/Card.css": "/cat-food-store/static/media/cat-photo.dc952312.jpg",
     "static/media/App.css": "/cat-food-store/static/media/pattern.7ea1b7b6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6fd0a521.js",
     "static/js/2.de01f2df.chunk.js",
-    "static/css/main.a9b9d180.chunk.css",
+    "static/css/main.9a35845d.chunk.css",
     "static/js/main.a867e71f.chunk.js"
   ]
 }

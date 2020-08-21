@@ -66,6 +66,7 @@
 
 .card__pseudo_disabled {
   border-right: 4px solid var(--DISABLED-COLOR);
+  cursor: auto;
 }
 
 .card__pseudo_disabled:hover {
@@ -151,7 +152,6 @@
   bottom: 4px;
   border-radius: 12px;
   opacity: .4;
-  cursor: auto;
 }
 
 .card__content {
@@ -314,6 +314,10 @@
 
   .card__description, .card__option {
     font-size: 12px;
+  }
+
+  .card__text {
+    min-height: 145px;
   }
 
   .card__title, .card__badge-info {

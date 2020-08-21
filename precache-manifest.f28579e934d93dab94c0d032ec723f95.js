@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdf1bb5083b0767f75608a1421e6af3e",
+    "revision": "d1f79bf3a9bb5b54f4ea25c3e75a8e43",
     "url": "/cat-food-store/index.html"
   },
   {
-    "revision": "1568487b8110fd3b637e",
-    "url": "/cat-food-store/static/css/main.1ee43f64.chunk.css"
+    "revision": "cb42bec09a6116432ca9",
+    "url": "/cat-food-store/static/css/main.4702ea24.chunk.css"
   },
   {
     "revision": "463286869bbd0814ebc1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cat-food-store/static/js/2.de01f2df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1568487b8110fd3b637e",
+    "revision": "cb42bec09a6116432ca9",
     "url": "/cat-food-store/static/js/main.80727654.chunk.js"
   },
   {
@@ -25,11 +25,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "44bde8744ccc0de7995a23b0e82dd281",
-    "url": "/cat-food-store/static/media/Exo2.0-Thin.44bde874.eot"
+    "url": "/cat-food-store/static/media/Exo2.0-Thin.44bde874.otf"
   },
   {
-    "revision": "44bde8744ccc0de7995a23b0e82dd281",
-    "url": "/cat-food-store/static/media/Exo2.0-Thin.44bde874.otf"
+    "revision": "652214a5ab6eb230779161f95cf7b060",
+    "url": "/cat-food-store/static/media/Exo2.0-Thin.652214a5.woff"
   },
   {
     "revision": "63f3ee9c747c86d1643376b970373180",

@@ -4,6 +4,7 @@
   column-gap: 80px;
   row-gap: 20px; */
   display: flex;
+  display: -ms-flexbox;
   flex-wrap: wrap;
   list-style: none;
   justify-content: center;
@@ -13,17 +14,14 @@
 
 .cards__item {
   padding: 0;
-  /* margin: 0; */
   width: 33%;
   min-width: 280px;
   max-width: 320px;
   margin: 0 40px 20px;
-  /* max-width: 320px; */
 }
 
 @media screen and (max-width: 1279px) {
   .cards__item {
     margin: 0 20px 20px;
-    /* max-width: 320px; */
   }
 }

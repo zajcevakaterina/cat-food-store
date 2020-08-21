@@ -1,8 +1,9 @@
 .header {
+  display: -ms-flexbox;
   display: flex;
   justify-content: center;
-  align-items: flex-end;
-  min-height: 80px;
+  align-items: center;
+  height: 104px;
 }
 
 .header__title {

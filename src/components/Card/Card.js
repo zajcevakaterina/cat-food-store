@@ -64,31 +64,33 @@ function Card({
   return (
     <div className="card">
       <div
-        className={classForElement('card__content')}
+        className={classForElement('card__pseudo')}
         onClick={onCardClick}
         onMouseEnter={onMouseEnter}
         onMouseLeave={onMouseLeave}>
         {!availability && <div className="card_disabled"></div>}
-
-        <div className="card__text">
-          <p className={`card__description ${mouseEnter && selected && firstSelectHappened ? 'card__description_selected-hover' : ''}`}>
-            {mouseEnter && selected && firstSelectHappened ? 'Котэ не одобряет? ' : 'Сказочное заморское яство'}
-          </p>
-          <h2 className="card__title">Нямушка</h2>
-          <p className="card__subtitle">{taste}</p>
-          <ul className="card__options">
-            <li className="card__option">{portions}</li>
-            <li className="card__option">{gift} в подарок</li>
-            {
-              isClientHappy && <li className="card__option">заказчик доволен</li>
-            }
-          </ul>
-          <div className={classForElement('card__badge')}>
-            <span className="card__badge-info">{weight}</span> кг
+        <div className="card__content">
+          <div className="card__text">
+            <p className={`card__description ${mouseEnter && selected && firstSelectHappened ? 'card__description_selected-hover' : ''}`}>
+              {mouseEnter && selected && firstSelectHappened ? 'Котэ не одобряет? ' : 'Сказочное заморское яство'}
+            </p>
+            <h2 className="card__title">Нямушка</h2>
+            <p className="card__subtitle">{taste}</p>
+            <ul className="card__options">
+              <li className="card__option">{portions}</li>
+              <li className="card__option">{gift} в подарок</li>
+              {
+                isClientHappy && <li className="card__option">заказчик доволен</li>
+              }
+            </ul>
+            <div className={classForElement('card__badge')}>
+              <span className="card__badge-info">{weight}</span> кг
           </div>
-        </div>
+          </div>
 
-        <div className={classForElement('card__image')}></div>
+          <div className={classForElement('card__image')}></div>
+
+        </div>
 
       </div>
       <p className={`card__caption ${!availability ? 'card__caption_not-available' : ''}`}>{showCaption()}</p>

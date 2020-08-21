@@ -11,6 +11,6 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-cssVars({
-  rootElement: document
+cssVars({ 
+  onlyLegacy: false, 
 });
